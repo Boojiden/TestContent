@@ -1,0 +1,26 @@
+﻿
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>TestContent</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Buffs\Minions\MicroDemonMinionBuff.png" />
+    <None Remove="Items\Pets\Robomando\YesManBuff.png" />
+    <None Remove="Items\Pets\Robomando\YesManItem.png" />
+    <None Remove="Items\Pets\Robomando\YesManProj.png" />
+    <None Remove="Items\Weapons\JacksItem - Copy.png" />
+    <None Remove="NPCs\KiryuPNG\Projectiles\FistUser.png" />
+    <None Remove="NPCs\KiryuPNG\Tiles\PingasMusicBox_Highlight.png" />
+    <None Remove="NPCs\Minos\Extras\FreezeAura.png" />
+    <None Remove="NPCs\Minos\Items\FreezeFrame.png" />
+    <None Remove="NPCs\Minos\Projectiles\Friendly\FreezeFrameHeldProjectile.png" />
+    <None Remove="NPCs\Minos\Projectiles\Friendly\RideableRocket.png" />
+    <None Remove="NPCs\Minos\Projectiles\JudgementExplosion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Effects\Graphics\" />
+    <Folder Include="NPCs\KiryuPNG\Gores\" />
+  </ItemGroup>
+</Project>

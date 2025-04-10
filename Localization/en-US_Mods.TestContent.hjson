@@ -1,0 +1,721 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	LmaoBox: {
+		DisplayName: Lmao Box
+		Tooltip: Get good
+	}
+
+	TestSword: {
+		DisplayName: Molten Cutlass
+		Tooltip: ""
+	}
+
+	CautionSign: {
+		DisplayName: Caution Sign
+		Tooltip:
+			'''
+			Left click to swing the sign, Right click to perform a spin
+			Doing a spin puts the weapon into "Gun Mode", which allows you to shoot with an M240
+			Ammo for the gun is gained on enemy hit with the sign
+			The sign will glow red when your ammo is full
+			'I think some clown misplaced this'
+			'''
+	}
+
+	CarPetItem: {
+		Tooltip:
+			'''
+			His name is car. 
+			Use with caution.
+			'''
+		DisplayName: Car
+	}
+
+	CokeAndFriesHalo: {
+		RestoreLifeText: Mods.TestContent.Items.CokeAndFriesHalo.RestoreLifeText
+		DisplayName: Coke And Fries Halo
+		Tooltip:
+			'''
+			Also inflicts 20 seconds of slowness
+			back in 2007 you could go to burger king and get a coke and fries halo, 
+			this was to market halo 3 which was set to release later that year,
+			in this promotion they put halo in coca cola and fries featuring master chief and the release date of halo 3, 
+			because of this we have coke and fries halo, 
+			the cool thing about coke and fries halo is the design it looks like halo this is to promote their upcoming game halo 3, 
+			to do this they made coke and fries halo, 
+			this is back in 2007 when people consumed a lot of coke and fries and like to play halo, 
+			so they decided to combine that and gave us coke and fries halo, 
+			they made this in 2007 by putting master chief and halo related things on the design of the both coca cola cup and fry container, 
+			so you could go to burger king and say i would like a coke and fries halo, 
+			and you'd get this what ur seeing on screen is coke and fries halo, um
+			'''
+	}
+
+	BigWeed: {
+		DisplayName: Big Weed
+		Tooltip:
+			'''
+			Inflicts Zonked, which reduces incoming damage by a flat 25 at the cost of 10% movement speed. 
+			Damage cannot be mitigated below 25
+			'''
+	}
+
+	Blunt: {
+		DisplayName: Blunt
+		Tooltip:
+			'''
+			Inflicts Buzzed, which reduces incoming damage by a flat 10. 
+			Damage cannot be mitigated below 25
+			'''
+	}
+
+	TheGreenOneItem: {
+		DisplayName: The Green One is Here
+		Tooltip: "'Doctor Somwhere'"
+	}
+
+	HorseCan: {
+		DisplayName: Horse Can
+		Tooltip:
+			'''
+			Eating from the can turns the consumer into a PNG of a horse
+			Apparantly recalled after some people who ate it were found dead
+			'You'd have to be pretty hungry to eat this stuff'
+			'''
+	}
+
+	Artifacting: {
+		DisplayName: PNG Artifacting
+		Tooltip:
+			'''
+			A ball of condensed PNG compression and artifacting. Apparantly Car threw this up
+			'bro you just fight images how is this fun'
+			'''
+	}
+
+	ShyHead: {
+		DisplayName: Shy's Mask
+		Tooltip: "'So is this his face, or his mask?'"
+	}
+
+	ShyPants: {
+		DisplayName: Shy's Stockings
+		Tooltip: "'Believe me, these are necessary'"
+	}
+
+	ShyTop: {
+		DisplayName: Shy's Hoodie
+		Tooltip: "'Talor-made for adventuring!'"
+	}
+
+	JonklerPetItem: {
+		DisplayName: The Jonkler
+		Tooltip:
+			'''
+			Jonkles 'The Jiggler' to Jollow you
+
+			'The Jlecker' is a dude guy from the 'Man' series of comics and games video
+			he was is famos for being all jiggly wiggly and is known as 'the crown prints of slime'
+			the jinker lobes to play prank on citizen and is arch enemy with man from man series
+			the jooner and man are loked in a stales mate where side neither can defeat him
+			the
+			the jopher
+			'''
+	}
+
+	DudeThisItemSucks: {
+		DisplayName: Dude this mod sucks
+		Tooltip: The original
+	}
+
+	PingasNoiseMaker: {
+		DisplayName: Pingas' Severed Head
+		Tooltip: Oh god
+	}
+
+	SmokingGun: {
+		Tooltip: Cheif told me he found the 'smoking gun.' Now I don't know what to think anymore
+		DisplayName: The Sacramento Smoker
+	}
+
+	SlotMachine: {
+		DisplayName: Slot Machine
+		Tooltip:
+			'''
+			Right click to go gambling
+			'I'm sorry, but the number 1-800-GAMBLER is blocked on this phone.'
+			'''
+	}
+
+	PlatinumChip: {
+		DisplayName: Platinum Chip
+		Tooltip:
+			'''
+			Gives much better chances at the slot machine
+			Unfortunately does not give headshot resistance
+			'''
+	}
+
+	TrickCoin: {
+		DisplayName: Trick Coin
+		Tooltip: Adds a 20% chance for the slot machine to not consume coins
+	}
+
+	SlotGiftBag: {
+		DisplayName: Casino Gift Bag
+		Tooltip:
+			'''
+			Can contain a plethora of gambling-themed items
+			Gives better rewards if you got it at a higher bet
+			Right click to open
+			'''
+	}
+
+	TrollMessage: {
+		DisplayName: Casino Letter
+		Tooltip:
+			'''
+			A letter from the casino. I wonder what it says?
+			Left click to view or put away.
+			'''
+	}
+
+	BlankShell: {
+		DisplayName: Blank Shotgun Shell
+		Tooltip:
+			'''
+			5% increased ranged damage
+			Doubles the normal reward for gambling at the slot machine at the cost of worse odds
+			'Double or Nothing'
+			'''
+	}
+
+	JohnnySword: {
+		DisplayName: Gambler's Katana
+		Tooltip:
+			'''
+			Right click to throw out a card
+			Hitting a card with the sword will spawn an additional slash on the card toward the closest enemy
+			The slash can also hit you
+			'You just gotta lean into it'
+			'''
+	}
+
+	GiftPotion: {
+		DisplayName: Glistening Champagne
+		Tooltip:
+			'''
+			Makes gifts more common from the slot machine
+			Also inflicts tipsy
+			'''
+	}
+
+	LuckyShot: {
+		DisplayName: Lucky Shot
+		Tooltip:
+			'''
+			Right click to play Russian roulette
+			If you win, you gain greatly increased ranged damage for a short time
+			If you lose, you take immense damage
+			While your damage is buffed, the gun has a chance to fire a powerful blast
+			'''
+	}
+
+	DeathCoin: {
+		DisplayName: Death Coin
+		Tooltip:
+			'''
+			Left click to toss a coin
+			If the coin lands on heads, it deals damage in a large area
+			If the coin lands on tails, you take 1/8 of your max health as damage
+			Chances of failure decrease as your health decreases (but are never zero)
+			'''
+	}
+
+	JacksItem: {
+		DisplayName: Deck of Jacks
+		Tooltip:
+			'''
+			Requires no minion slots!
+			Left click to draw a card. Each card has specific value.
+			Spades: 1, Hearts: 2, Diamonds: 5, Clubs: 10.
+			Summon damage of a single card increases proportionally with the card's value
+			Summon damage of all cards increases as the sum of your cards' values approaches 21
+			If your sum ever exceeds 21, your cards will attack you.
+			Once a card deals enough damage, it disappears
+			'Card tricks are much easier when all the cards are possessed'
+			'''
+	}
+
+	PingasMusicBoxItem: {
+		DisplayName: Music Box (Pingas)
+		Tooltip: ""
+	}
+
+	DameDaneBoxItem: {
+		DisplayName: Music Box (Dame Dane Guy)
+		Tooltip: ""
+	}
+
+	KiryuBossBag: {
+		DisplayName: Kiryu.png Boss Bag
+		Tooltip: ""
+	}
+
+	KiryuMaskItem: {
+		DisplayName: Kiryu.png Mask
+		Tooltip: ""
+	}
+
+	KiryuRelic: {
+		DisplayName: Kiryu.png Relic
+		Tooltip: ""
+	}
+
+	KiryuTrophyItem: {
+		DisplayName: Kiryu.png Trophy
+		Tooltip: ""
+	}
+
+	LittleKiryuMountItem: {
+		DisplayName: little guy
+		Tooltip:
+			'''
+			Turns the holder into Little Kiryu
+			Little Kiryu moves very fast and can fly because yea sure
+			'He's literally me.'
+			'''
+	}
+
+	TheSongOfLifeItem: {
+		DisplayName: yakuza 6
+		Tooltip: the song of life
+	}
+
+	BicycleThrowingItem: {
+		DisplayName: Kamurocho Bicycle
+		Tooltip: Now some random dude has to walk
+	}
+
+	FistItem: {
+		DisplayName: Puncher
+		Tooltip: How to Throw a Puch wikiHow Article
+	}
+
+	KiryuSummonItem: {
+		DisplayName: Yakuza Kiwami for the PS4
+		Tooltip:
+			'''
+			You know who this summons
+			Not Consumable
+			'''
+	}
+
+	Fish: {
+		DisplayName: FISH
+		Tooltip: FISH
+	}
+
+	YesManItem: {
+		DisplayName: Novelty Poker USB Stick
+		Tooltip: Summons a spineless robot
+	}
+
+	LuigiPetItem: {
+		DisplayName: Free Movies iPhone
+		Tooltip: Talk to Jesus Anytime!
+	}
+
+	TransmogItem: {
+		DisplayName: Spark of Inspiration
+		Tooltip:
+			'''
+			Has the ability to transform certain items
+			Hold it with your cursor to reveal items that can be transformed
+			Right click a highlighted item to transform it
+			'''
+	}
+
+	TransmogShell: {
+		DisplayName: Blue Shell
+		Tooltip: Does more damage the lower your health gets
+	}
+
+	TransmogStar: {
+		DisplayName: Power Star
+		Tooltip:
+			'''
+			Grants the user Star Power
+			Star Power makes the user invulnerable and lets them deal contact damage, but prevents the use of items
+			Also applies Potion Sickness
+			'''
+	}
+
+	Cross: {
+		DisplayName: Devotee's Cross
+		Tooltip:
+			'''
+			Allows the holder to survive a fatal hit with 50 HP.
+			Also allows the holder to see God.
+			Revives have a 30 second cooldown after activation.
+			'''
+	}
+
+	WeePetItem: {
+		DisplayName: Wee Joker
+		Tooltip: Summons a little joker to talk to
+	}
+
+	MidasTouch: {
+		DisplayName: Midas Touch
+		Tooltip: ""
+	}
+
+	TheNeedle: {
+		DisplayName: The Needle
+		Tooltip:
+			'''
+			Does more damage the more money you have.
+			Maxes at 200% more damage at 2 platinum.
+			Only counts money in inventory.
+			'''
+	}
+
+	ChipAmmo: {
+		DisplayName: Chip
+		Tooltip: Ironically don't sell for very much.
+	}
+
+	RouletteGun: {
+		DisplayName: Roulette Gun
+		Tooltip: Uses chips as ammo
+	}
+
+	RobomandoItem: {
+		DisplayName: Strange Battery
+		Tooltip:
+			'''
+			Summons a dinky little robot
+			"he's like the commando class but stupid."
+			'''
+	}
+
+	MicroDemonItem: {
+		DisplayName: '''"Crimson" Staff'''
+		Tooltip: Summons a little red(?) demon to fight for you
+	}
+
+	TestTrailWeapon: {
+		DisplayName: Test Trail Weapon
+		Tooltip: ""
+	}
+
+	RailCannon: {
+		DisplayName: Rail Cannon
+		Tooltip:
+			'''
+			Shoots out an incredibly powerful electric blast.
+			Needs to recharge for a short time after use.
+			'''
+	}
+
+	FreezeFrame: {
+		DisplayName: Freeze Frame
+		Tooltip:
+			'''
+			Right-Click to freeze the rockets in mid air.
+			Rockets frozen for long enough will become empowered, dealing additional damage.
+			Press {0} while near a rocket to ride it.
+			Press {0} and {1} to adjust the angle of the rocket.
+			Rode rockets will start falling after some time.
+			'''
+	}
+
+	KnuckleBlaster: {
+		DisplayName: Knuckle Blaster
+		Tooltip: Keep holding attack to generate an explosion at the fist.
+	}
+
+	MinosSummonItem: {
+		DisplayName: Dead King's Crown
+		Tooltip:
+			'''
+			Imbued with a powerful soul.
+			Summons Minos Prime.
+			Alt use to skip intro.
+			'''
+	}
+
+	DroneController: {
+		DisplayName: Drone Controller
+		Tooltip: Summons a blood-fueled drone to fight for you.
+	}
+
+	WhiplashItem: {
+		DisplayName: Whiplash
+		Tooltip:
+			'''
+			Counts as a hook, but cannot latch to tiles. Latches to enemies instead.
+			If attached to an enemy who takes knockback, the enemy will come to you.
+			If attached to an enemy who doesn't take knockback, you go to them instead.
+			'''
+	}
+
+	MinosBossBag: {
+		DisplayName: Treasure Bag (Minos Prime)
+		Tooltip: ""
+	}
+
+	MinosMaskItem: {
+		DisplayName: Minos Prime Mask
+		Tooltip: ""
+	}
+
+	MinosMusicBoxItem: {
+		DisplayName: Music Box (Minos Prime)
+		Tooltip: ""
+	}
+
+	MinosRelicItem: {
+		DisplayName: Minos Prime Relic
+		Tooltip: ""
+	}
+
+	MinosTrophyItem: {
+		DisplayName: Minos Prime Trophy
+		Tooltip: ""
+	}
+
+	MinosPetItem: {
+		DisplayName: Micro Soul
+		Tooltip: A smaller soul with a mere fraction of the power.
+	}
+}
+
+Projectiles: {
+	TestSwordProjectile.DisplayName: Molten Cutlass
+	CautionSignProjectile.DisplayName: Caution Sign Projectile
+	M24HoldOut.DisplayName: M24 Hold Out
+	M24Shot.DisplayName: M24 Shot
+	CarPetProjectile.DisplayName: Car
+	CarRare.DisplayName: Car's Car
+	JonklerPetProj.DisplayName: The Jonkler
+	SmokingGunBlunt.DisplayName: Blunt
+	JohnnySwordProjectile.DisplayName: Gambler's Katana
+	JohnnyCard.DisplayName: J-Card
+	MistFiner.DisplayName: Mist Finer
+	LuckyShotProjectile.DisplayName: Lucky Shot Hold Out
+	DeathCoinProjectile.DisplayName: Death Coin Itself (Wait, really?)
+	DeathCoinExplosion.DisplayName: Death Coin Explosion
+	JackCardMinion.DisplayName: Jack
+	LuckyShotBigShot.DisplayName: Lucker Shot
+	CardHostile.DisplayName: Death Card
+	Bicycle.DisplayName: Bicycle
+	Bucket.DisplayName: Bucket
+	Crate.DisplayName: Crate
+	TrafficCone.DisplayName: Traffic Cone
+	Fist.DisplayName: Fist
+	BicycleUser.DisplayName: Bicycle
+	TheSongOfLife.DisplayName: The Song Of Life
+	FistUser.DisplayName: Fist
+	YesManProj.DisplayName: Yes Man
+	LuigiPetProjectile.DisplayName: Luigi
+	BlueShell.DisplayName: Blue Shell
+	BlueShellExplosion.DisplayName: Blue Shell Explosion
+	StarBuffContactDamage.DisplayName: Star Power
+	WeePetProj.DisplayName: Wee Joker
+	MidasHeldProjectile.DisplayName: Midas Held Projectile
+	NeedleHeldProjectile.DisplayName: Needle Held Projectile
+	MidasLaser.DisplayName: Midas Laser
+	ChipProjectile.DisplayName: Chip Projectile
+	RouletteGunHoldout.DisplayName: Roulette Gun Holdout
+	RobomandoProj.DisplayName: Robo man doe
+	MicroDemonMinion.DisplayName: Micro Demon
+	TestTrailProjectile.DisplayName: Test Trail Projectile
+	Viper.DisplayName: Viper
+	JudgementExplosion.DisplayName: Judgement
+	MinosRock.DisplayName: Rock
+	Shockwave.DisplayName: Shockwave
+	MinosSlamHitbox.DisplayName: Minos Prime
+	RailCannonHeldProjectile.DisplayName: Rail Cannon
+	RailCannonShot.DisplayName: Rail Cannon
+	FreezeFrameHeldProjectile.DisplayName: Freeze Frame
+	FreezeFrameRocket.DisplayName: Freeze Frame Rocket
+	FreezeFrameRocketExplosion.DisplayName: Freeze Frame Rocket Explosion
+	FreezeFrameRocketExplosionEmpowered.DisplayName: Freeze Frame Rocket Explosion
+	KnuckleBlasterHandProjectile.DisplayName: Knuckle Blaster
+	FreezeFrameRocketExplosionNull.DisplayName: Freeze Frame Rocket Explosion
+	KnuckleBlasterExplosion.DisplayName: Knuckle Blaster Explosion
+	MinosIntroExplosionEffect.DisplayName: Minos Intro Explosion Effect (Literally How)
+	SoulOrbParticle.DisplayName: Soul Orb Particle (Literally How)
+	ViperSmall.DisplayName: Small Viper
+	ViperBlue.DisplayName: Viper
+	DroneMinion.DisplayName: Drone
+	SkullBall.DisplayName: Skull Ball
+	WhiplashProjectile.DisplayName: Whiplash
+	MinosPetProjectile.DisplayName: Micro Soul
+}
+
+Buffs: {
+	CarPetBuff: {
+		Description: Wrath.
+		DisplayName: Car
+	}
+
+	Buzzed: {
+		DisplayName: Buzzed
+		Description: Top shelf Zaza disrupted my circadian rhythm
+	}
+
+	Zonked: {
+		DisplayName: Zonked
+		Description: I need to kill. I NEED TO KILL.
+	}
+
+	HorseMountBuff: {
+		DisplayName: horse
+		Description: you feel indescribable
+	}
+
+	JonklerPetBuff: {
+		DisplayName: The Jonkler
+		Description: Jojer man from man is stalk YOU. Run away plenty.
+	}
+
+	GiftBuff: {
+		DisplayName: Glistening
+		Description: Increased gift output from the slot machine
+	}
+
+	Emboldened: {
+		DisplayName: Emboldened
+		Description: A brush with death emboldens you. +30% ranged damage
+	}
+
+	JacksMinionBuff: {
+		DisplayName: Jacks
+		Description: Apparently they're all named Jack
+	}
+
+	LittleKiryuBuff: {
+		DisplayName: Little Kiryu
+		Description: Big boy in town
+	}
+
+	TheSongOfLifeBuff: {
+		DisplayName: yakuza 6
+		Description: the song of life
+	}
+
+	YesManBuff: {
+		DisplayName: Yea Man
+		Description: I'm not just saying that because I have to!
+	}
+
+	LuigiPetBuff: {
+		DisplayName: Luigi
+		Description: Have you ever wanted movies free?
+	}
+
+	StarBuff: {
+		DisplayName: Star Power
+		Description: It's a good thing you have the timer, right?
+	}
+
+	Touched: {
+		DisplayName: Touched
+		Description: He Awaits
+	}
+
+	WeePetBuff: {
+		DisplayName: Wee Joker
+		Description: Currently +0 Chips
+	}
+
+	RobomandoBuff: {
+		DisplayName: Robomando
+		Description: '''"And so it left nothing behind."'''
+	}
+
+	MicroDemonMinionBuff: {
+		DisplayName: Little Demon
+		Description: He's not all that thrilled about it
+	}
+
+	DroneMinionBuff: {
+		DisplayName: Blood Drone
+		Description: Is it... blushing?
+	}
+
+	MinosPetBuff: {
+		DisplayName: Micro Soul
+		Description: Hitching a ride
+	}
+}
+
+NPCs: {
+	KiryuPNG: {
+		DisplayName: Kiryu.png
+		SummonText: Use [i:{0}]
+	}
+
+	Pingas.DisplayName: Pingas
+	MinosPrime.DisplayName: Minos Prime
+	SoulOrb.DisplayName: Soul Orb
+}
+
+Configs: {
+	DiseaseClientConfig: {
+		DisplayName: Disease Client Config
+		Headers.Audio/Visuals: Audio/Visuals
+
+		PlayBadReforgeNoise: {
+			Label: Play Bad Reforge Noise
+			Tooltip: uuuuhghghgh
+		}
+
+		PlayLuigiJumpscare: {
+			Label: Enable Luigi Jumpscare
+			Tooltip: Why would you disable this? :)
+		}
+	}
+}
+
+Misc: {
+	WeeJokerLines: {
+		1: It's rather musty in there!
+		2: If I were you I'd stay face down!
+		3: You can do better than that!
+		4: Oh no, were you bluffing too?
+		5: Please, your family loves you.
+		6: Release me from this wack ass card prison!
+		7: When was the last time you took a shower?
+		8: He awaits
+		9: What will Saint Peter say when you reach the pearly gates?
+		10: There will be consequences
+		11: Don't forget to gamble all of your money!
+		12: God I wish that were me
+		13: I'm a jester, what's your excuse?
+		14: https://bit.ly/40e65hF
+		15: Reminder to drink some water from time to time
+		16: You? Oh, you die at the lake
+		17: i love balato
+		18: ":)"
+		19: I agree with that cat thing, you're weird
+		20: I'm going to crash out I swear to god
+		21: erm
+		22: He's peaking he's peaking push push in push in
+		23: would you uh you you uh er uh would you uhh uhhh
+		24: God I hate Obelisk
+		25: https://bigrat.monster
+	}
+
+	DeathReasons: {
+		Bust: "{0} tried to count cards."
+		BustNotOwner: "{0} was a victim of {1}'s gambling addiction."
+		Horse: "{0} was horsing around."
+	}
+}
+
+"Keybinds.Mount Rocket.DisplayName": Mount Rocket

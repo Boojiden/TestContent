@@ -1,0 +1,901 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|c:\\users\\aiden\\onedrive\\documents\\my games\\terraria\\tmodloader\\modsources\\testcontent\\ui\\slotmachinesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:ui\\slotmachinesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\minosprime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\minosprime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\players\\playerrideables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:players\\playerrideables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\pingas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\pingas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\minosintroexplosioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\minosintroexplosioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\soulorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\soulorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\kiryupng\\projectiles\\kiryuitemprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\kiryupng\\projectiles\\kiryuitemprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\whiplashprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\whiplashprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\utility\\dustutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:utility\\dustutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\knuckleblaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\knuckleblaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\shockwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\shockwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\skys\\fightsky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\skys\\fightsky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\skys\\introsky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\skys\\introsky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\localization\\en-us_mods.testcontent.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:localization\\en-us_mods.testcontent.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\judgementexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\judgementexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\ultraexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\ultraexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosionempowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosionempowered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\knuckleblasterexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\knuckleblasterexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosionnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\freezeframerocketexplosionnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\railcannonshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\railcannonshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\freezeframeheldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\freezeframeheldprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\projectiles\\weapons\\gambling\\prehardmode\\deathcoinexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:projectiles\\weapons\\gambling\\prehardmode\\deathcoinexplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\items\\pets\\weejoker\\weepetproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:items\\pets\\weejoker\\weepetproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\commands\\setminosdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:commands\\setminosdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\projectiles\\basicheldgunprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:projectiles\\basicheldgunprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\commands\\slotchancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:commands\\slotchancecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\kiryupng\\kiryupng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\kiryupng\\kiryupng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\minossummonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\minossummonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\friendly\\droneminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\friendly\\droneminion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\utility\\gameplayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:utility\\gameplayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\kiryupng\\items\\kiryusummonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\kiryupng\\items\\kiryusummonitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\projectiles\\basictrailprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:projectiles\\basictrailprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\projectiles\\viper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\projectiles\\viper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\pet\\minospetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\pet\\minospetitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\tiles\\minosmusicboxtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\tiles\\minosmusicboxtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\minosmusicboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\minosmusicboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\tiles\\minosbossrelic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\tiles\\minosbossrelic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\kiryupng\\tiles\\kiryubossrelic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\kiryupng\\tiles\\kiryubossrelic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\pet\\minospetprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\pet\\minospetprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\pet\\minospetbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\pet\\minospetbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\minostrophyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\minostrophyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\minosrelicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\minosrelicitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\tiles\\minostrophytile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\tiles\\minostrophytile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\npcs\\minos\\items\\bossdecorum\\minosbossbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:npcs\\minos\\items\\bossdecorum\\minosbossbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\tiles\\furniture\\slotmachinetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:tiles\\furniture\\slotmachinetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\effects\\graphics\\primitives\\primitiverenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:effects\\graphics\\primitives\\primitiverenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\effects\\graphics\\renderers\\renderermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:effects\\graphics\\renderers\\renderermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\effects\\graphics\\renderers\\baserenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:effects\\graphics\\renderers\\baserenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\effects\\ik\\iinversekinematicsupdaterule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:effects\\ik\\iinversekinematicsupdaterule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\effects\\ik\\cycliccoordinatedescentupdaterule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:effects\\ik\\cycliccoordinatedescentupdaterule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\ui\\slotmachinemusicscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19E9E32-7CEE-4F01-B0E7-FF35C81CCBB2}|TestContent.csproj|solutionrelative:ui\\slotmachinemusicscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2066101253:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:582271820:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1218358266:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:280213093:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1513031394:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotMachineSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\UI\\SlotMachineSystem.cs",
+              "RelativeDocumentMoniker": "UI\\SlotMachineSystem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\UI\\SlotMachineSystem.cs",
+              "RelativeToolTip": "UI\\SlotMachineSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T03:18:46.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pingas.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Pingas.cs",
+              "RelativeDocumentMoniker": "NPCs\\Pingas.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Pingas.cs",
+              "RelativeToolTip": "NPCs\\Pingas.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:36:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerRideables.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Players\\PlayerRideables.cs",
+              "RelativeDocumentMoniker": "Players\\PlayerRideables.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Players\\PlayerRideables.cs",
+              "RelativeToolTip": "Players\\PlayerRideables.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAwJsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T20:09:48.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinosPrime.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\MinosPrime.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\MinosPrime.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\MinosPrime.cs",
+              "RelativeToolTip": "NPCs\\Minos\\MinosPrime.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAiwAkBAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:57:26.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoulOrb.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\SoulOrb.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\SoulOrb.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\SoulOrb.cs",
+              "RelativeToolTip": "NPCs\\Minos\\SoulOrb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:27:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MinosIntroExplosionEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\MinosIntroExplosionEffect.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\MinosIntroExplosionEffect.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\MinosIntroExplosionEffect.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\MinosIntroExplosionEffect.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T03:18:22.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DustUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Utility\\DustUtils.cs",
+              "RelativeDocumentMoniker": "Utility\\DustUtils.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Utility\\DustUtils.cs",
+              "RelativeToolTip": "Utility\\DustUtils.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:12:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KiryuItemProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Projectiles\\KiryuItemProjectile.cs",
+              "RelativeDocumentMoniker": "NPCs\\KiryuPNG\\Projectiles\\KiryuItemProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Projectiles\\KiryuItemProjectile.cs",
+              "RelativeToolTip": "NPCs\\KiryuPNG\\Projectiles\\KiryuItemProjectile.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T02:10:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WhiplashProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\WhiplashProjectile.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\WhiplashProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\WhiplashProjectile.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\WhiplashProjectile.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAgwLEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:21:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KnuckleBlaster.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\KnuckleBlaster.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\KnuckleBlaster.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\KnuckleBlaster.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\KnuckleBlaster.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:10:58.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "en-US_Mods.TestContent.hjson",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Localization\\en-US_Mods.TestContent.hjson",
+              "RelativeDocumentMoniker": "Localization\\en-US_Mods.TestContent.hjson",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Localization\\en-US_Mods.TestContent.hjson",
+              "RelativeToolTip": "Localization\\en-US_Mods.TestContent.hjson",
+              "ViewState": "AQIAABkCAAAAAAAAAAAAAMwCAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T16:22:08.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IntroSky.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Skys\\IntroSky.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Skys\\IntroSky.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Skys\\IntroSky.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Skys\\IntroSky.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAIAwwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:25:32.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FightSky.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Skys\\FightSky.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Skys\\FightSky.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Skys\\FightSky.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Skys\\FightSky.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T16:44:36.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shockwave.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Shockwave.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Shockwave.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Shockwave.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Shockwave.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowD8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:19:59.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JudgementExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\JudgementExplosion.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\JudgementExplosion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\JudgementExplosion.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\JudgementExplosion.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:33:50.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FreezeFrameRocketExplosionEmpowered.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionEmpowered.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionEmpowered.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionEmpowered.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionEmpowered.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:33:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FreezeFrameRocketExplosionNull.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionNull.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionNull.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionNull.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosionNull.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:33:31.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FreezeFrameRocketExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosion.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosion.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameRocketExplosion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:31:03.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UltraExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\UltraExplosion.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\UltraExplosion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\UltraExplosion.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\UltraExplosion.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAWwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:07:33.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KnuckleBlasterExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\KnuckleBlasterExplosion.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\KnuckleBlasterExplosion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\KnuckleBlasterExplosion.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\KnuckleBlasterExplosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:33:35.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RailCannonShot.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\RailCannonShot.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\RailCannonShot.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\RailCannonShot.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\RailCannonShot.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:41:44.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FreezeFrameHeldProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameHeldProjectile.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameHeldProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameHeldProjectile.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\FreezeFrameHeldProjectile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:22:14.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DeathCoinExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\Weapons\\Gambling\\Prehardmode\\DeathCoinExplosion.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Weapons\\Gambling\\Prehardmode\\DeathCoinExplosion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\Weapons\\Gambling\\Prehardmode\\DeathCoinExplosion.cs",
+              "RelativeToolTip": "Projectiles\\Weapons\\Gambling\\Prehardmode\\DeathCoinExplosion.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAADgv2cAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:07:40.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeePetProj.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Items\\Pets\\WeeJoker\\WeePetProj.cs",
+              "RelativeDocumentMoniker": "Items\\Pets\\WeeJoker\\WeePetProj.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Items\\Pets\\WeeJoker\\WeePetProj.cs",
+              "RelativeToolTip": "Items\\Pets\\WeeJoker\\WeePetProj.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwIAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:35:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SetMinosDebug.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Commands\\SetMinosDebug.cs",
+              "RelativeDocumentMoniker": "Commands\\SetMinosDebug.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Commands\\SetMinosDebug.cs",
+              "RelativeToolTip": "Commands\\SetMinosDebug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:50:58.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BasicHeldGunProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\BasicHeldGunProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\BasicHeldGunProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\BasicHeldGunProjectile.cs",
+              "RelativeToolTip": "Projectiles\\BasicHeldGunProjectile.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAWwKAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:22:29.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SlotChanceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Commands\\SlotChanceCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\SlotChanceCommand.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Commands\\SlotChanceCommand.cs",
+              "RelativeToolTip": "Commands\\SlotChanceCommand.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:51:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MinosSummonItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\MinosSummonItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\MinosSummonItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\MinosSummonItem.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\MinosSummonItem.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAmwEgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:20:27.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DroneMinion.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\DroneMinion.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Friendly\\DroneMinion.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Friendly\\DroneMinion.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Friendly\\DroneMinion.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAmwAgBAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:10:15.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KiryuPNG.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\KiryuPNG.cs",
+              "RelativeDocumentMoniker": "NPCs\\KiryuPNG\\KiryuPNG.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\KiryuPNG.cs",
+              "RelativeToolTip": "NPCs\\KiryuPNG\\KiryuPNG.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAiwOsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:57:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KiryuSummonItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Items\\KiryuSummonItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\KiryuPNG\\Items\\KiryuSummonItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Items\\KiryuSummonItem.cs",
+              "RelativeToolTip": "NPCs\\KiryuPNG\\Items\\KiryuSummonItem.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:22:43.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameplayUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Utility\\GameplayUtils.cs",
+              "RelativeDocumentMoniker": "Utility\\GameplayUtils.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Utility\\GameplayUtils.cs",
+              "RelativeToolTip": "Utility\\GameplayUtils.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAtwHcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T17:40:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BasicTrailProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\BasicTrailProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\BasicTrailProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Projectiles\\BasicTrailProjectile.cs",
+              "RelativeToolTip": "Projectiles\\BasicTrailProjectile.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADgvyMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:56:08.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Viper.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Viper.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Projectiles\\Viper.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Projectiles\\Viper.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Projectiles\\Viper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:55:41.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MinosMusicBoxTile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosMusicBoxTile.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Tiles\\MinosMusicBoxTile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosMusicBoxTile.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Tiles\\MinosMusicBoxTile.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:21:09.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MinosTrophyItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosTrophyItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\MinosTrophyItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosTrophyItem.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\MinosTrophyItem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:24:02.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MinosPetItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetItem.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:10:52.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MinosMusicBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosMusicBoxItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\MinosMusicBoxItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosMusicBoxItem.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\MinosMusicBoxItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:22:44.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "KiryuBossRelic.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Tiles\\KiryuBossRelic.cs",
+              "RelativeDocumentMoniker": "NPCs\\KiryuPNG\\Tiles\\KiryuBossRelic.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\KiryuPNG\\Tiles\\KiryuBossRelic.cs",
+              "RelativeToolTip": "NPCs\\KiryuPNG\\Tiles\\KiryuBossRelic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwCAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:07:00.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MinosRelicItem.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosRelicItem.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\MinosRelicItem.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosRelicItem.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\MinosRelicItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:22:31.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MinosBossRelic.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosBossRelic.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Tiles\\MinosBossRelic.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosBossRelic.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Tiles\\MinosBossRelic.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAawCAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:01:12.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MinosPetProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetProjectile.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetProjectile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetProjectile.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetProjectile.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:29:23.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MinosPetBuff.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetBuff.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetBuff.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetBuff.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\Pet\\MinosPetBuff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:10:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MinosTrophyTile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosTrophyTile.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Tiles\\MinosTrophyTile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Tiles\\MinosTrophyTile.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Tiles\\MinosTrophyTile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:21:51.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MinosBossBag.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosBossBag.cs",
+              "RelativeDocumentMoniker": "NPCs\\Minos\\Items\\BossDecorum\\MinosBossBag.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\NPCs\\Minos\\Items\\BossDecorum\\MinosBossBag.cs",
+              "RelativeToolTip": "NPCs\\Minos\\Items\\BossDecorum\\MinosBossBag.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:18:21.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RendererManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Renderers\\RendererManager.cs",
+              "RelativeDocumentMoniker": "Effects\\Graphics\\Renderers\\RendererManager.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Renderers\\RendererManager.cs",
+              "RelativeToolTip": "Effects\\Graphics\\Renderers\\RendererManager.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAQwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:41:52.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SlotMachineTile.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Tiles\\Furniture\\SlotMachineTile.cs",
+              "RelativeDocumentMoniker": "Tiles\\Furniture\\SlotMachineTile.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Tiles\\Furniture\\SlotMachineTile.cs",
+              "RelativeToolTip": "Tiles\\Furniture\\SlotMachineTile.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:31:34.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PrimitiveRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Primitives\\PrimitiveRenderer.cs",
+              "RelativeDocumentMoniker": "Effects\\Graphics\\Primitives\\PrimitiveRenderer.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Primitives\\PrimitiveRenderer.cs",
+              "RelativeToolTip": "Effects\\Graphics\\Primitives\\PrimitiveRenderer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowJgAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:43:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BaseRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Renderers\\BaseRenderer.cs",
+              "RelativeDocumentMoniker": "Effects\\Graphics\\Renderers\\BaseRenderer.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\Graphics\\Renderers\\BaseRenderer.cs",
+              "RelativeToolTip": "Effects\\Graphics\\Renderers\\BaseRenderer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:41:29.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IInverseKinematicsUpdateRule.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\IK\\IInverseKinematicsUpdateRule.cs",
+              "RelativeDocumentMoniker": "Effects\\IK\\IInverseKinematicsUpdateRule.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\IK\\IInverseKinematicsUpdateRule.cs",
+              "RelativeToolTip": "Effects\\IK\\IInverseKinematicsUpdateRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:35:44.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CyclicCoordinateDescentUpdateRule.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\IK\\CyclicCoordinateDescentUpdateRule.cs",
+              "RelativeDocumentMoniker": "Effects\\IK\\CyclicCoordinateDescentUpdateRule.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\Effects\\IK\\CyclicCoordinateDescentUpdateRule.cs",
+              "RelativeToolTip": "Effects\\IK\\CyclicCoordinateDescentUpdateRule.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:35:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SlotMachineMusicScene.cs",
+              "DocumentMoniker": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\UI\\SlotMachineMusicScene.cs",
+              "RelativeDocumentMoniker": "UI\\SlotMachineMusicScene.cs",
+              "ToolTip": "C:\\Users\\Aiden\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TestContent\\UI\\SlotMachineMusicScene.cs",
+              "RelativeToolTip": "UI\\SlotMachineMusicScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T01:26:08.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
